@@ -8,7 +8,7 @@ Follow these steps to add the Growth Theme to your HubSpot portal:
 - Click the green "Code" button above.
 - Select "Download ZIP" and save the file to your computer.
 - Log into your HubSpot portal.
-- Navigate to "Settings" -> "Content" > "Themes" (or simply click [this link](app.hubspot.com/l/settings/website/themes/?selectedTab=THEMES "this link") and select your portal)
+- Navigate to "Settings" -> "Content" > "Themes" (or simply click [this link](https://app.hubspot.com/l/settings/website/themes/?selectedTab=THEMES "this link") and select your portal)
 - Click "Upload Theme" button in the top right corner and select the Zip file.
 - Wait for the upload to complete and customize the theme as needed.
 
