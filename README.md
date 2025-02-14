@@ -1,6 +1,6 @@
 # Notice
 
-The Growth Theme is the property of HubSpot. Neither GraphiSpot nor Anton Bujanowski claim any licenses or ownership rights to this theme. This version is merely a copy of the Growth Theme to facilitate users in installing it in their HubSpot portal.
+The Growth Theme is the exclusive property of HubSpot. Neither GraphiSpot nor Anton Bujanowski claim any ownership, copyright, or licensing rights to this theme. This repository contains an unmodified copy of the Growth Theme, provided solely for the purpose of enabling users to install it in their HubSpot portal. No warranties or guarantees of any kind are provided regarding the use, functionality, or suitability of this theme.
 
 ## Installation
 
